@@ -1,0 +1,15 @@
+C:\Users\Owen\source\repos\AcmeAccountingSystemsPractice\AcmeAccountingSystemsPractice\obj\Debug\net5.0\AcmeAccountingSystemsPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owen\source\repos\AcmeAccountingSystemsPractice\AcmeAccountingSystemsPractice\obj\Debug\net5.0\AcmeAccountingSystemsPractice.AssemblyInfoInputs.cache
+C:\Users\Owen\source\repos\AcmeAccountingSystemsPractice\AcmeAccountingSystemsPractice\obj\Debug\net5.0\AcmeAccountingSystemsPractice.AssemblyInfo.cs
+C:\Users\Owen\source\repos\AcmeAccountingSystemsPractice\AcmeAccountingSystemsPractice\obj\Debug\net5.0\AcmeAccountingSystemsPractice.csproj.CoreCompileInputs.cache
+C:\Users\Owen\source\repos\AcmeAccountingSystemsPractice\AcmeAccountingSystemsPractice\bin\Debug\net5.0\AcmeAccountingSystemsPractice.exe
+C:\Users\Owen\source\repos\AcmeAccountingSystemsPractice\AcmeAccountingSystemsPractice\bin\Debug\net5.0\AcmeAccountingSystemsPractice.deps.json
+C:\Users\Owen\source\repos\AcmeAccountingSystemsPractice\AcmeAccountingSystemsPractice\bin\Debug\net5.0\AcmeAccountingSystemsPractice.runtimeconfig.json
+C:\Users\Owen\source\repos\AcmeAccountingSystemsPractice\AcmeAccountingSystemsPractice\bin\Debug\net5.0\AcmeAccountingSystemsPractice.runtimeconfig.dev.json
+C:\Users\Owen\source\repos\AcmeAccountingSystemsPractice\AcmeAccountingSystemsPractice\bin\Debug\net5.0\AcmeAccountingSystemsPractice.dll
+C:\Users\Owen\source\repos\AcmeAccountingSystemsPractice\AcmeAccountingSystemsPractice\bin\Debug\net5.0\ref\AcmeAccountingSystemsPractice.dll
+C:\Users\Owen\source\repos\AcmeAccountingSystemsPractice\AcmeAccountingSystemsPractice\bin\Debug\net5.0\AcmeAccountingSystemsPractice.pdb
+C:\Users\Owen\source\repos\AcmeAccountingSystemsPractice\AcmeAccountingSystemsPractice\obj\Debug\net5.0\AcmeAccountingSystemsPractice.dll
+C:\Users\Owen\source\repos\AcmeAccountingSystemsPractice\AcmeAccountingSystemsPractice\obj\Debug\net5.0\ref\AcmeAccountingSystemsPractice.dll
+C:\Users\Owen\source\repos\AcmeAccountingSystemsPractice\AcmeAccountingSystemsPractice\obj\Debug\net5.0\AcmeAccountingSystemsPractice.pdb
+C:\Users\Owen\source\repos\AcmeAccountingSystemsPractice\AcmeAccountingSystemsPractice\obj\Debug\net5.0\AcmeAccountingSystemsPractice.genruntimeconfig.cache
