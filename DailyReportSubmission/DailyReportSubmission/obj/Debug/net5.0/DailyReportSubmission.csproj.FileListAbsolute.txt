@@ -1,0 +1,16 @@
+C:\Users\Owen\source\repos\DailyReportSubmission\DailyReportSubmission\bin\Debug\net5.0\DailyReportSubmission.exe
+C:\Users\Owen\source\repos\DailyReportSubmission\DailyReportSubmission\bin\Debug\net5.0\DailyReportSubmission.deps.json
+C:\Users\Owen\source\repos\DailyReportSubmission\DailyReportSubmission\bin\Debug\net5.0\DailyReportSubmission.runtimeconfig.json
+C:\Users\Owen\source\repos\DailyReportSubmission\DailyReportSubmission\bin\Debug\net5.0\DailyReportSubmission.runtimeconfig.dev.json
+C:\Users\Owen\source\repos\DailyReportSubmission\DailyReportSubmission\bin\Debug\net5.0\DailyReportSubmission.dll
+C:\Users\Owen\source\repos\DailyReportSubmission\DailyReportSubmission\bin\Debug\net5.0\ref\DailyReportSubmission.dll
+C:\Users\Owen\source\repos\DailyReportSubmission\DailyReportSubmission\bin\Debug\net5.0\DailyReportSubmission.pdb
+C:\Users\Owen\source\repos\DailyReportSubmission\DailyReportSubmission\obj\Debug\net5.0\DailyReportSubmission.csproj.AssemblyReference.cache
+C:\Users\Owen\source\repos\DailyReportSubmission\DailyReportSubmission\obj\Debug\net5.0\DailyReportSubmission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owen\source\repos\DailyReportSubmission\DailyReportSubmission\obj\Debug\net5.0\DailyReportSubmission.AssemblyInfoInputs.cache
+C:\Users\Owen\source\repos\DailyReportSubmission\DailyReportSubmission\obj\Debug\net5.0\DailyReportSubmission.AssemblyInfo.cs
+C:\Users\Owen\source\repos\DailyReportSubmission\DailyReportSubmission\obj\Debug\net5.0\DailyReportSubmission.csproj.CoreCompileInputs.cache
+C:\Users\Owen\source\repos\DailyReportSubmission\DailyReportSubmission\obj\Debug\net5.0\DailyReportSubmission.dll
+C:\Users\Owen\source\repos\DailyReportSubmission\DailyReportSubmission\obj\Debug\net5.0\ref\DailyReportSubmission.dll
+C:\Users\Owen\source\repos\DailyReportSubmission\DailyReportSubmission\obj\Debug\net5.0\DailyReportSubmission.pdb
+C:\Users\Owen\source\repos\DailyReportSubmission\DailyReportSubmission\obj\Debug\net5.0\DailyReportSubmission.genruntimeconfig.cache
