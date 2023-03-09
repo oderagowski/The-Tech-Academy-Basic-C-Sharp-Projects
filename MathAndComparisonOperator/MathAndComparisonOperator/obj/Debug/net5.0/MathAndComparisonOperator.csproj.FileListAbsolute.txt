@@ -1,0 +1,16 @@
+C:\Users\Owen\source\repos\MathAndComparisonOperator\MathAndComparisonOperator\bin\Debug\net5.0\MathAndComparisonOperator.exe
+C:\Users\Owen\source\repos\MathAndComparisonOperator\MathAndComparisonOperator\bin\Debug\net5.0\MathAndComparisonOperator.deps.json
+C:\Users\Owen\source\repos\MathAndComparisonOperator\MathAndComparisonOperator\bin\Debug\net5.0\MathAndComparisonOperator.runtimeconfig.json
+C:\Users\Owen\source\repos\MathAndComparisonOperator\MathAndComparisonOperator\bin\Debug\net5.0\MathAndComparisonOperator.runtimeconfig.dev.json
+C:\Users\Owen\source\repos\MathAndComparisonOperator\MathAndComparisonOperator\bin\Debug\net5.0\MathAndComparisonOperator.dll
+C:\Users\Owen\source\repos\MathAndComparisonOperator\MathAndComparisonOperator\bin\Debug\net5.0\ref\MathAndComparisonOperator.dll
+C:\Users\Owen\source\repos\MathAndComparisonOperator\MathAndComparisonOperator\bin\Debug\net5.0\MathAndComparisonOperator.pdb
+C:\Users\Owen\source\repos\MathAndComparisonOperator\MathAndComparisonOperator\obj\Debug\net5.0\MathAndComparisonOperator.csproj.AssemblyReference.cache
+C:\Users\Owen\source\repos\MathAndComparisonOperator\MathAndComparisonOperator\obj\Debug\net5.0\MathAndComparisonOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owen\source\repos\MathAndComparisonOperator\MathAndComparisonOperator\obj\Debug\net5.0\MathAndComparisonOperator.AssemblyInfoInputs.cache
+C:\Users\Owen\source\repos\MathAndComparisonOperator\MathAndComparisonOperator\obj\Debug\net5.0\MathAndComparisonOperator.AssemblyInfo.cs
+C:\Users\Owen\source\repos\MathAndComparisonOperator\MathAndComparisonOperator\obj\Debug\net5.0\MathAndComparisonOperator.csproj.CoreCompileInputs.cache
+C:\Users\Owen\source\repos\MathAndComparisonOperator\MathAndComparisonOperator\obj\Debug\net5.0\MathAndComparisonOperator.dll
+C:\Users\Owen\source\repos\MathAndComparisonOperator\MathAndComparisonOperator\obj\Debug\net5.0\ref\MathAndComparisonOperator.dll
+C:\Users\Owen\source\repos\MathAndComparisonOperator\MathAndComparisonOperator\obj\Debug\net5.0\MathAndComparisonOperator.pdb
+C:\Users\Owen\source\repos\MathAndComparisonOperator\MathAndComparisonOperator\obj\Debug\net5.0\MathAndComparisonOperator.genruntimeconfig.cache
