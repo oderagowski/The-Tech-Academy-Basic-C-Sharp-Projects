@@ -1,0 +1,16 @@
+C:\Users\Owen\source\repos\BranchingAssignment\BranchingAssignment\obj\Debug\net5.0\BranchingAssignment.csproj.AssemblyReference.cache
+C:\Users\Owen\source\repos\BranchingAssignment\BranchingAssignment\obj\Debug\net5.0\BranchingAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owen\source\repos\BranchingAssignment\BranchingAssignment\obj\Debug\net5.0\BranchingAssignment.AssemblyInfoInputs.cache
+C:\Users\Owen\source\repos\BranchingAssignment\BranchingAssignment\obj\Debug\net5.0\BranchingAssignment.AssemblyInfo.cs
+C:\Users\Owen\source\repos\BranchingAssignment\BranchingAssignment\obj\Debug\net5.0\BranchingAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Owen\source\repos\BranchingAssignment\BranchingAssignment\bin\Debug\net5.0\BranchingAssignment.exe
+C:\Users\Owen\source\repos\BranchingAssignment\BranchingAssignment\bin\Debug\net5.0\BranchingAssignment.deps.json
+C:\Users\Owen\source\repos\BranchingAssignment\BranchingAssignment\bin\Debug\net5.0\BranchingAssignment.runtimeconfig.json
+C:\Users\Owen\source\repos\BranchingAssignment\BranchingAssignment\bin\Debug\net5.0\BranchingAssignment.runtimeconfig.dev.json
+C:\Users\Owen\source\repos\BranchingAssignment\BranchingAssignment\bin\Debug\net5.0\BranchingAssignment.dll
+C:\Users\Owen\source\repos\BranchingAssignment\BranchingAssignment\bin\Debug\net5.0\ref\BranchingAssignment.dll
+C:\Users\Owen\source\repos\BranchingAssignment\BranchingAssignment\bin\Debug\net5.0\BranchingAssignment.pdb
+C:\Users\Owen\source\repos\BranchingAssignment\BranchingAssignment\obj\Debug\net5.0\BranchingAssignment.dll
+C:\Users\Owen\source\repos\BranchingAssignment\BranchingAssignment\obj\Debug\net5.0\ref\BranchingAssignment.dll
+C:\Users\Owen\source\repos\BranchingAssignment\BranchingAssignment\obj\Debug\net5.0\BranchingAssignment.pdb
+C:\Users\Owen\source\repos\BranchingAssignment\BranchingAssignment\obj\Debug\net5.0\BranchingAssignment.genruntimeconfig.cache
