@@ -1,0 +1,16 @@
+C:\Users\Owen\source\repos\While_DoWhile\While_DoWhile\bin\Debug\net5.0\While_DoWhile.exe
+C:\Users\Owen\source\repos\While_DoWhile\While_DoWhile\bin\Debug\net5.0\While_DoWhile.deps.json
+C:\Users\Owen\source\repos\While_DoWhile\While_DoWhile\bin\Debug\net5.0\While_DoWhile.runtimeconfig.json
+C:\Users\Owen\source\repos\While_DoWhile\While_DoWhile\bin\Debug\net5.0\While_DoWhile.runtimeconfig.dev.json
+C:\Users\Owen\source\repos\While_DoWhile\While_DoWhile\bin\Debug\net5.0\While_DoWhile.dll
+C:\Users\Owen\source\repos\While_DoWhile\While_DoWhile\bin\Debug\net5.0\ref\While_DoWhile.dll
+C:\Users\Owen\source\repos\While_DoWhile\While_DoWhile\bin\Debug\net5.0\While_DoWhile.pdb
+C:\Users\Owen\source\repos\While_DoWhile\While_DoWhile\obj\Debug\net5.0\While_DoWhile.csproj.AssemblyReference.cache
+C:\Users\Owen\source\repos\While_DoWhile\While_DoWhile\obj\Debug\net5.0\While_DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owen\source\repos\While_DoWhile\While_DoWhile\obj\Debug\net5.0\While_DoWhile.AssemblyInfoInputs.cache
+C:\Users\Owen\source\repos\While_DoWhile\While_DoWhile\obj\Debug\net5.0\While_DoWhile.AssemblyInfo.cs
+C:\Users\Owen\source\repos\While_DoWhile\While_DoWhile\obj\Debug\net5.0\While_DoWhile.csproj.CoreCompileInputs.cache
+C:\Users\Owen\source\repos\While_DoWhile\While_DoWhile\obj\Debug\net5.0\While_DoWhile.dll
+C:\Users\Owen\source\repos\While_DoWhile\While_DoWhile\obj\Debug\net5.0\ref\While_DoWhile.dll
+C:\Users\Owen\source\repos\While_DoWhile\While_DoWhile\obj\Debug\net5.0\While_DoWhile.pdb
+C:\Users\Owen\source\repos\While_DoWhile\While_DoWhile\obj\Debug\net5.0\While_DoWhile.genruntimeconfig.cache
