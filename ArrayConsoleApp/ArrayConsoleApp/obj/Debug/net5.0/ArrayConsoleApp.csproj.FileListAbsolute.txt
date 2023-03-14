@@ -1,0 +1,16 @@
+C:\Users\Owen\source\repos\ArrayConsoleApp\ArrayConsoleApp\bin\Debug\net5.0\ArrayConsoleApp.exe
+C:\Users\Owen\source\repos\ArrayConsoleApp\ArrayConsoleApp\bin\Debug\net5.0\ArrayConsoleApp.deps.json
+C:\Users\Owen\source\repos\ArrayConsoleApp\ArrayConsoleApp\bin\Debug\net5.0\ArrayConsoleApp.runtimeconfig.json
+C:\Users\Owen\source\repos\ArrayConsoleApp\ArrayConsoleApp\bin\Debug\net5.0\ArrayConsoleApp.runtimeconfig.dev.json
+C:\Users\Owen\source\repos\ArrayConsoleApp\ArrayConsoleApp\bin\Debug\net5.0\ArrayConsoleApp.dll
+C:\Users\Owen\source\repos\ArrayConsoleApp\ArrayConsoleApp\bin\Debug\net5.0\ref\ArrayConsoleApp.dll
+C:\Users\Owen\source\repos\ArrayConsoleApp\ArrayConsoleApp\bin\Debug\net5.0\ArrayConsoleApp.pdb
+C:\Users\Owen\source\repos\ArrayConsoleApp\ArrayConsoleApp\obj\Debug\net5.0\ArrayConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Owen\source\repos\ArrayConsoleApp\ArrayConsoleApp\obj\Debug\net5.0\ArrayConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owen\source\repos\ArrayConsoleApp\ArrayConsoleApp\obj\Debug\net5.0\ArrayConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Owen\source\repos\ArrayConsoleApp\ArrayConsoleApp\obj\Debug\net5.0\ArrayConsoleApp.AssemblyInfo.cs
+C:\Users\Owen\source\repos\ArrayConsoleApp\ArrayConsoleApp\obj\Debug\net5.0\ArrayConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Owen\source\repos\ArrayConsoleApp\ArrayConsoleApp\obj\Debug\net5.0\ArrayConsoleApp.dll
+C:\Users\Owen\source\repos\ArrayConsoleApp\ArrayConsoleApp\obj\Debug\net5.0\ref\ArrayConsoleApp.dll
+C:\Users\Owen\source\repos\ArrayConsoleApp\ArrayConsoleApp\obj\Debug\net5.0\ArrayConsoleApp.pdb
+C:\Users\Owen\source\repos\ArrayConsoleApp\ArrayConsoleApp\obj\Debug\net5.0\ArrayConsoleApp.genruntimeconfig.cache
