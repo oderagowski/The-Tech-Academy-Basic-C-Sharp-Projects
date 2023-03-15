@@ -1,0 +1,16 @@
+C:\Users\Owen\source\repos\IterationAssignment\IterationAssignment\bin\Debug\net5.0\IterationAssignment.exe
+C:\Users\Owen\source\repos\IterationAssignment\IterationAssignment\bin\Debug\net5.0\IterationAssignment.deps.json
+C:\Users\Owen\source\repos\IterationAssignment\IterationAssignment\bin\Debug\net5.0\IterationAssignment.runtimeconfig.json
+C:\Users\Owen\source\repos\IterationAssignment\IterationAssignment\bin\Debug\net5.0\IterationAssignment.runtimeconfig.dev.json
+C:\Users\Owen\source\repos\IterationAssignment\IterationAssignment\bin\Debug\net5.0\IterationAssignment.dll
+C:\Users\Owen\source\repos\IterationAssignment\IterationAssignment\bin\Debug\net5.0\ref\IterationAssignment.dll
+C:\Users\Owen\source\repos\IterationAssignment\IterationAssignment\bin\Debug\net5.0\IterationAssignment.pdb
+C:\Users\Owen\source\repos\IterationAssignment\IterationAssignment\obj\Debug\net5.0\IterationAssignment.csproj.AssemblyReference.cache
+C:\Users\Owen\source\repos\IterationAssignment\IterationAssignment\obj\Debug\net5.0\IterationAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owen\source\repos\IterationAssignment\IterationAssignment\obj\Debug\net5.0\IterationAssignment.AssemblyInfoInputs.cache
+C:\Users\Owen\source\repos\IterationAssignment\IterationAssignment\obj\Debug\net5.0\IterationAssignment.AssemblyInfo.cs
+C:\Users\Owen\source\repos\IterationAssignment\IterationAssignment\obj\Debug\net5.0\IterationAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Owen\source\repos\IterationAssignment\IterationAssignment\obj\Debug\net5.0\IterationAssignment.dll
+C:\Users\Owen\source\repos\IterationAssignment\IterationAssignment\obj\Debug\net5.0\ref\IterationAssignment.dll
+C:\Users\Owen\source\repos\IterationAssignment\IterationAssignment\obj\Debug\net5.0\IterationAssignment.pdb
+C:\Users\Owen\source\repos\IterationAssignment\IterationAssignment\obj\Debug\net5.0\IterationAssignment.genruntimeconfig.cache
