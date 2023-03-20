@@ -1,0 +1,16 @@
+C:\Users\Owen\source\repos\StringsAndIntegers\StringsAndIntegers\bin\Debug\net5.0\StringsAndIntegers.exe
+C:\Users\Owen\source\repos\StringsAndIntegers\StringsAndIntegers\bin\Debug\net5.0\StringsAndIntegers.deps.json
+C:\Users\Owen\source\repos\StringsAndIntegers\StringsAndIntegers\bin\Debug\net5.0\StringsAndIntegers.runtimeconfig.json
+C:\Users\Owen\source\repos\StringsAndIntegers\StringsAndIntegers\bin\Debug\net5.0\StringsAndIntegers.runtimeconfig.dev.json
+C:\Users\Owen\source\repos\StringsAndIntegers\StringsAndIntegers\bin\Debug\net5.0\StringsAndIntegers.dll
+C:\Users\Owen\source\repos\StringsAndIntegers\StringsAndIntegers\bin\Debug\net5.0\ref\StringsAndIntegers.dll
+C:\Users\Owen\source\repos\StringsAndIntegers\StringsAndIntegers\bin\Debug\net5.0\StringsAndIntegers.pdb
+C:\Users\Owen\source\repos\StringsAndIntegers\StringsAndIntegers\obj\Debug\net5.0\StringsAndIntegers.csproj.AssemblyReference.cache
+C:\Users\Owen\source\repos\StringsAndIntegers\StringsAndIntegers\obj\Debug\net5.0\StringsAndIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owen\source\repos\StringsAndIntegers\StringsAndIntegers\obj\Debug\net5.0\StringsAndIntegers.AssemblyInfoInputs.cache
+C:\Users\Owen\source\repos\StringsAndIntegers\StringsAndIntegers\obj\Debug\net5.0\StringsAndIntegers.AssemblyInfo.cs
+C:\Users\Owen\source\repos\StringsAndIntegers\StringsAndIntegers\obj\Debug\net5.0\StringsAndIntegers.csproj.CoreCompileInputs.cache
+C:\Users\Owen\source\repos\StringsAndIntegers\StringsAndIntegers\obj\Debug\net5.0\StringsAndIntegers.dll
+C:\Users\Owen\source\repos\StringsAndIntegers\StringsAndIntegers\obj\Debug\net5.0\ref\StringsAndIntegers.dll
+C:\Users\Owen\source\repos\StringsAndIntegers\StringsAndIntegers\obj\Debug\net5.0\StringsAndIntegers.pdb
+C:\Users\Owen\source\repos\StringsAndIntegers\StringsAndIntegers\obj\Debug\net5.0\StringsAndIntegers.genruntimeconfig.cache
