@@ -1,0 +1,16 @@
+C:\Users\Owen\source\repos\CallingMethods\CallingMethods\bin\Debug\net5.0\CallingMethods.exe
+C:\Users\Owen\source\repos\CallingMethods\CallingMethods\bin\Debug\net5.0\CallingMethods.deps.json
+C:\Users\Owen\source\repos\CallingMethods\CallingMethods\bin\Debug\net5.0\CallingMethods.runtimeconfig.json
+C:\Users\Owen\source\repos\CallingMethods\CallingMethods\bin\Debug\net5.0\CallingMethods.runtimeconfig.dev.json
+C:\Users\Owen\source\repos\CallingMethods\CallingMethods\bin\Debug\net5.0\CallingMethods.dll
+C:\Users\Owen\source\repos\CallingMethods\CallingMethods\bin\Debug\net5.0\ref\CallingMethods.dll
+C:\Users\Owen\source\repos\CallingMethods\CallingMethods\bin\Debug\net5.0\CallingMethods.pdb
+C:\Users\Owen\source\repos\CallingMethods\CallingMethods\obj\Debug\net5.0\CallingMethods.csproj.AssemblyReference.cache
+C:\Users\Owen\source\repos\CallingMethods\CallingMethods\obj\Debug\net5.0\CallingMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owen\source\repos\CallingMethods\CallingMethods\obj\Debug\net5.0\CallingMethods.AssemblyInfoInputs.cache
+C:\Users\Owen\source\repos\CallingMethods\CallingMethods\obj\Debug\net5.0\CallingMethods.AssemblyInfo.cs
+C:\Users\Owen\source\repos\CallingMethods\CallingMethods\obj\Debug\net5.0\CallingMethods.csproj.CoreCompileInputs.cache
+C:\Users\Owen\source\repos\CallingMethods\CallingMethods\obj\Debug\net5.0\CallingMethods.dll
+C:\Users\Owen\source\repos\CallingMethods\CallingMethods\obj\Debug\net5.0\ref\CallingMethods.dll
+C:\Users\Owen\source\repos\CallingMethods\CallingMethods\obj\Debug\net5.0\CallingMethods.pdb
+C:\Users\Owen\source\repos\CallingMethods\CallingMethods\obj\Debug\net5.0\CallingMethods.genruntimeconfig.cache
