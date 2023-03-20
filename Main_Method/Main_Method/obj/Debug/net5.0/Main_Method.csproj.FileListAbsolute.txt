@@ -1,0 +1,16 @@
+C:\Users\Owen\source\repos\Main_Method\Main_Method\bin\Debug\net5.0\Main_Method.exe
+C:\Users\Owen\source\repos\Main_Method\Main_Method\bin\Debug\net5.0\Main_Method.deps.json
+C:\Users\Owen\source\repos\Main_Method\Main_Method\bin\Debug\net5.0\Main_Method.runtimeconfig.json
+C:\Users\Owen\source\repos\Main_Method\Main_Method\bin\Debug\net5.0\Main_Method.runtimeconfig.dev.json
+C:\Users\Owen\source\repos\Main_Method\Main_Method\bin\Debug\net5.0\Main_Method.dll
+C:\Users\Owen\source\repos\Main_Method\Main_Method\bin\Debug\net5.0\ref\Main_Method.dll
+C:\Users\Owen\source\repos\Main_Method\Main_Method\bin\Debug\net5.0\Main_Method.pdb
+C:\Users\Owen\source\repos\Main_Method\Main_Method\obj\Debug\net5.0\Main_Method.csproj.AssemblyReference.cache
+C:\Users\Owen\source\repos\Main_Method\Main_Method\obj\Debug\net5.0\Main_Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owen\source\repos\Main_Method\Main_Method\obj\Debug\net5.0\Main_Method.AssemblyInfoInputs.cache
+C:\Users\Owen\source\repos\Main_Method\Main_Method\obj\Debug\net5.0\Main_Method.AssemblyInfo.cs
+C:\Users\Owen\source\repos\Main_Method\Main_Method\obj\Debug\net5.0\Main_Method.csproj.CoreCompileInputs.cache
+C:\Users\Owen\source\repos\Main_Method\Main_Method\obj\Debug\net5.0\Main_Method.dll
+C:\Users\Owen\source\repos\Main_Method\Main_Method\obj\Debug\net5.0\ref\Main_Method.dll
+C:\Users\Owen\source\repos\Main_Method\Main_Method\obj\Debug\net5.0\Main_Method.pdb
+C:\Users\Owen\source\repos\Main_Method\Main_Method\obj\Debug\net5.0\Main_Method.genruntimeconfig.cache
