@@ -1,0 +1,16 @@
+C:\Users\Owen\source\repos\MethodsAndObjects\MethodsAndObjects\bin\Debug\net5.0\MethodsAndObjects.exe
+C:\Users\Owen\source\repos\MethodsAndObjects\MethodsAndObjects\bin\Debug\net5.0\MethodsAndObjects.deps.json
+C:\Users\Owen\source\repos\MethodsAndObjects\MethodsAndObjects\bin\Debug\net5.0\MethodsAndObjects.runtimeconfig.json
+C:\Users\Owen\source\repos\MethodsAndObjects\MethodsAndObjects\bin\Debug\net5.0\MethodsAndObjects.runtimeconfig.dev.json
+C:\Users\Owen\source\repos\MethodsAndObjects\MethodsAndObjects\bin\Debug\net5.0\MethodsAndObjects.dll
+C:\Users\Owen\source\repos\MethodsAndObjects\MethodsAndObjects\bin\Debug\net5.0\ref\MethodsAndObjects.dll
+C:\Users\Owen\source\repos\MethodsAndObjects\MethodsAndObjects\bin\Debug\net5.0\MethodsAndObjects.pdb
+C:\Users\Owen\source\repos\MethodsAndObjects\MethodsAndObjects\obj\Debug\net5.0\MethodsAndObjects.csproj.AssemblyReference.cache
+C:\Users\Owen\source\repos\MethodsAndObjects\MethodsAndObjects\obj\Debug\net5.0\MethodsAndObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owen\source\repos\MethodsAndObjects\MethodsAndObjects\obj\Debug\net5.0\MethodsAndObjects.AssemblyInfoInputs.cache
+C:\Users\Owen\source\repos\MethodsAndObjects\MethodsAndObjects\obj\Debug\net5.0\MethodsAndObjects.AssemblyInfo.cs
+C:\Users\Owen\source\repos\MethodsAndObjects\MethodsAndObjects\obj\Debug\net5.0\MethodsAndObjects.csproj.CoreCompileInputs.cache
+C:\Users\Owen\source\repos\MethodsAndObjects\MethodsAndObjects\obj\Debug\net5.0\MethodsAndObjects.dll
+C:\Users\Owen\source\repos\MethodsAndObjects\MethodsAndObjects\obj\Debug\net5.0\ref\MethodsAndObjects.dll
+C:\Users\Owen\source\repos\MethodsAndObjects\MethodsAndObjects\obj\Debug\net5.0\MethodsAndObjects.pdb
+C:\Users\Owen\source\repos\MethodsAndObjects\MethodsAndObjects\obj\Debug\net5.0\MethodsAndObjects.genruntimeconfig.cache
