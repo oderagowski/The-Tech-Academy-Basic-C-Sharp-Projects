@@ -1,0 +1,16 @@
+C:\Users\Owen\source\repos\AbstractClass\AbstractClass\bin\Debug\net5.0\AbstractClass.exe
+C:\Users\Owen\source\repos\AbstractClass\AbstractClass\bin\Debug\net5.0\AbstractClass.deps.json
+C:\Users\Owen\source\repos\AbstractClass\AbstractClass\bin\Debug\net5.0\AbstractClass.runtimeconfig.json
+C:\Users\Owen\source\repos\AbstractClass\AbstractClass\bin\Debug\net5.0\AbstractClass.runtimeconfig.dev.json
+C:\Users\Owen\source\repos\AbstractClass\AbstractClass\bin\Debug\net5.0\AbstractClass.dll
+C:\Users\Owen\source\repos\AbstractClass\AbstractClass\bin\Debug\net5.0\ref\AbstractClass.dll
+C:\Users\Owen\source\repos\AbstractClass\AbstractClass\bin\Debug\net5.0\AbstractClass.pdb
+C:\Users\Owen\source\repos\AbstractClass\AbstractClass\obj\Debug\net5.0\AbstractClass.csproj.AssemblyReference.cache
+C:\Users\Owen\source\repos\AbstractClass\AbstractClass\obj\Debug\net5.0\AbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owen\source\repos\AbstractClass\AbstractClass\obj\Debug\net5.0\AbstractClass.AssemblyInfoInputs.cache
+C:\Users\Owen\source\repos\AbstractClass\AbstractClass\obj\Debug\net5.0\AbstractClass.AssemblyInfo.cs
+C:\Users\Owen\source\repos\AbstractClass\AbstractClass\obj\Debug\net5.0\AbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\Owen\source\repos\AbstractClass\AbstractClass\obj\Debug\net5.0\AbstractClass.dll
+C:\Users\Owen\source\repos\AbstractClass\AbstractClass\obj\Debug\net5.0\ref\AbstractClass.dll
+C:\Users\Owen\source\repos\AbstractClass\AbstractClass\obj\Debug\net5.0\AbstractClass.pdb
+C:\Users\Owen\source\repos\AbstractClass\AbstractClass\obj\Debug\net5.0\AbstractClass.genruntimeconfig.cache
