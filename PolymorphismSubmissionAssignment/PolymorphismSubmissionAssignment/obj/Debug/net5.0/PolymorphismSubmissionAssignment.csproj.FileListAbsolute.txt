@@ -1,0 +1,15 @@
+C:\Users\Owen\source\repos\PolymorphismSubmissionAssignment\PolymorphismSubmissionAssignment\bin\Debug\net5.0\PolymorphismSubmissionAssignment.exe
+C:\Users\Owen\source\repos\PolymorphismSubmissionAssignment\PolymorphismSubmissionAssignment\bin\Debug\net5.0\PolymorphismSubmissionAssignment.deps.json
+C:\Users\Owen\source\repos\PolymorphismSubmissionAssignment\PolymorphismSubmissionAssignment\bin\Debug\net5.0\PolymorphismSubmissionAssignment.runtimeconfig.json
+C:\Users\Owen\source\repos\PolymorphismSubmissionAssignment\PolymorphismSubmissionAssignment\bin\Debug\net5.0\PolymorphismSubmissionAssignment.runtimeconfig.dev.json
+C:\Users\Owen\source\repos\PolymorphismSubmissionAssignment\PolymorphismSubmissionAssignment\bin\Debug\net5.0\PolymorphismSubmissionAssignment.dll
+C:\Users\Owen\source\repos\PolymorphismSubmissionAssignment\PolymorphismSubmissionAssignment\bin\Debug\net5.0\ref\PolymorphismSubmissionAssignment.dll
+C:\Users\Owen\source\repos\PolymorphismSubmissionAssignment\PolymorphismSubmissionAssignment\bin\Debug\net5.0\PolymorphismSubmissionAssignment.pdb
+C:\Users\Owen\source\repos\PolymorphismSubmissionAssignment\PolymorphismSubmissionAssignment\obj\Debug\net5.0\PolymorphismSubmissionAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owen\source\repos\PolymorphismSubmissionAssignment\PolymorphismSubmissionAssignment\obj\Debug\net5.0\PolymorphismSubmissionAssignment.AssemblyInfoInputs.cache
+C:\Users\Owen\source\repos\PolymorphismSubmissionAssignment\PolymorphismSubmissionAssignment\obj\Debug\net5.0\PolymorphismSubmissionAssignment.AssemblyInfo.cs
+C:\Users\Owen\source\repos\PolymorphismSubmissionAssignment\PolymorphismSubmissionAssignment\obj\Debug\net5.0\PolymorphismSubmissionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Owen\source\repos\PolymorphismSubmissionAssignment\PolymorphismSubmissionAssignment\obj\Debug\net5.0\PolymorphismSubmissionAssignment.dll
+C:\Users\Owen\source\repos\PolymorphismSubmissionAssignment\PolymorphismSubmissionAssignment\obj\Debug\net5.0\ref\PolymorphismSubmissionAssignment.dll
+C:\Users\Owen\source\repos\PolymorphismSubmissionAssignment\PolymorphismSubmissionAssignment\obj\Debug\net5.0\PolymorphismSubmissionAssignment.pdb
+C:\Users\Owen\source\repos\PolymorphismSubmissionAssignment\PolymorphismSubmissionAssignment\obj\Debug\net5.0\PolymorphismSubmissionAssignment.genruntimeconfig.cache
