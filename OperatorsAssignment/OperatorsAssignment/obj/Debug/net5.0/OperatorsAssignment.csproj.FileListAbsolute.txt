@@ -1,0 +1,16 @@
+C:\Users\Owen\source\repos\OperatorsAssignment\OperatorsAssignment\bin\Debug\net5.0\OperatorsAssignment.exe
+C:\Users\Owen\source\repos\OperatorsAssignment\OperatorsAssignment\bin\Debug\net5.0\OperatorsAssignment.deps.json
+C:\Users\Owen\source\repos\OperatorsAssignment\OperatorsAssignment\bin\Debug\net5.0\OperatorsAssignment.runtimeconfig.json
+C:\Users\Owen\source\repos\OperatorsAssignment\OperatorsAssignment\bin\Debug\net5.0\OperatorsAssignment.runtimeconfig.dev.json
+C:\Users\Owen\source\repos\OperatorsAssignment\OperatorsAssignment\bin\Debug\net5.0\OperatorsAssignment.dll
+C:\Users\Owen\source\repos\OperatorsAssignment\OperatorsAssignment\bin\Debug\net5.0\ref\OperatorsAssignment.dll
+C:\Users\Owen\source\repos\OperatorsAssignment\OperatorsAssignment\bin\Debug\net5.0\OperatorsAssignment.pdb
+C:\Users\Owen\source\repos\OperatorsAssignment\OperatorsAssignment\obj\Debug\net5.0\OperatorsAssignment.csproj.AssemblyReference.cache
+C:\Users\Owen\source\repos\OperatorsAssignment\OperatorsAssignment\obj\Debug\net5.0\OperatorsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owen\source\repos\OperatorsAssignment\OperatorsAssignment\obj\Debug\net5.0\OperatorsAssignment.AssemblyInfoInputs.cache
+C:\Users\Owen\source\repos\OperatorsAssignment\OperatorsAssignment\obj\Debug\net5.0\OperatorsAssignment.AssemblyInfo.cs
+C:\Users\Owen\source\repos\OperatorsAssignment\OperatorsAssignment\obj\Debug\net5.0\OperatorsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Owen\source\repos\OperatorsAssignment\OperatorsAssignment\obj\Debug\net5.0\OperatorsAssignment.dll
+C:\Users\Owen\source\repos\OperatorsAssignment\OperatorsAssignment\obj\Debug\net5.0\ref\OperatorsAssignment.dll
+C:\Users\Owen\source\repos\OperatorsAssignment\OperatorsAssignment\obj\Debug\net5.0\OperatorsAssignment.pdb
+C:\Users\Owen\source\repos\OperatorsAssignment\OperatorsAssignment\obj\Debug\net5.0\OperatorsAssignment.genruntimeconfig.cache
