@@ -1,0 +1,16 @@
+C:\Users\Owen\source\repos\ParsingEnums\ParsingEnums\obj\Debug\net5.0\ParsingEnums.csproj.AssemblyReference.cache
+C:\Users\Owen\source\repos\ParsingEnums\ParsingEnums\obj\Debug\net5.0\ParsingEnums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owen\source\repos\ParsingEnums\ParsingEnums\obj\Debug\net5.0\ParsingEnums.AssemblyInfoInputs.cache
+C:\Users\Owen\source\repos\ParsingEnums\ParsingEnums\obj\Debug\net5.0\ParsingEnums.AssemblyInfo.cs
+C:\Users\Owen\source\repos\ParsingEnums\ParsingEnums\obj\Debug\net5.0\ParsingEnums.csproj.CoreCompileInputs.cache
+C:\Users\Owen\source\repos\ParsingEnums\ParsingEnums\bin\Debug\net5.0\ParsingEnums.exe
+C:\Users\Owen\source\repos\ParsingEnums\ParsingEnums\bin\Debug\net5.0\ParsingEnums.deps.json
+C:\Users\Owen\source\repos\ParsingEnums\ParsingEnums\bin\Debug\net5.0\ParsingEnums.runtimeconfig.json
+C:\Users\Owen\source\repos\ParsingEnums\ParsingEnums\bin\Debug\net5.0\ParsingEnums.runtimeconfig.dev.json
+C:\Users\Owen\source\repos\ParsingEnums\ParsingEnums\bin\Debug\net5.0\ParsingEnums.dll
+C:\Users\Owen\source\repos\ParsingEnums\ParsingEnums\bin\Debug\net5.0\ref\ParsingEnums.dll
+C:\Users\Owen\source\repos\ParsingEnums\ParsingEnums\bin\Debug\net5.0\ParsingEnums.pdb
+C:\Users\Owen\source\repos\ParsingEnums\ParsingEnums\obj\Debug\net5.0\ParsingEnums.dll
+C:\Users\Owen\source\repos\ParsingEnums\ParsingEnums\obj\Debug\net5.0\ref\ParsingEnums.dll
+C:\Users\Owen\source\repos\ParsingEnums\ParsingEnums\obj\Debug\net5.0\ParsingEnums.pdb
+C:\Users\Owen\source\repos\ParsingEnums\ParsingEnums\obj\Debug\net5.0\ParsingEnums.genruntimeconfig.cache
